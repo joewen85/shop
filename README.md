@@ -1,5 +1,5 @@
 # 芸众社交电商系统功能设计总览
-![image](https://yunzmall-1251768088.cos.ap-guangzhou.myqcloud.com/yunzhong/%E6%A1%86%E6%9E%B6%E5%9B%BE202007.jpeg)
+![avatar](https://yunzmall-1251768088.cos.ap-guangzhou.myqcloud.com/yunzhong/%E6%A1%86%E6%9E%B6%E5%9B%BE202007.jpeg)
 
 # 芸众社交电商系统功能介绍：免费版
 ![image](https://github.com/yunzmall/shop/blob/main/static/images/%E5%95%86%E5%9F%8E%E7%B3%BB%E7%BB%9F%E7%A4%BE%E4%BA%A4%E7%94%B5%E5%95%86_01.jpg)
